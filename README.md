@@ -1,6 +1,6 @@
 # Mordern Data Stack - DEV Pilot
 
-Estudo de caso relaciona a um stack de dados moderna.
+Estudo de caso relacionado a uma stack de dados moderna.
 
 Diagrama
 
